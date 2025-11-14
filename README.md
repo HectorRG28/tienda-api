@@ -1,4 +1,4 @@
-#  Express Project
+#  Proyecto en Express
 
 Hemos desarrollado el proyecto con **Node.js** y con  **Express**.Nuestro objetivo es crear **API RESTful**,  que está orientada a la gestión de datos, además de un pequeño manejo con los módulos que hemos creado.
 
